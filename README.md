@@ -1,5 +1,7 @@
 # Oprek Bareng
 
+Trainer: Arba Sasmoyo (https://github.com/asasmoyo)
+
 ## Requirements
 
 1. Install Visual Studio Code
